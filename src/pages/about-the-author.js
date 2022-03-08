@@ -43,75 +43,25 @@ const ATB = (props) => {
                             </div>
                         </div>
 
-                        <article className="article-section" id="author">
-                            <div className="article-flex">
-                                <div className="article-flex-item-left">
-                                    <p>
-                                        Kirk Frank Jordan was born in Greenville Pennsylvania April 11, 1965.  He graduated from Greenville High School in 1983, Fort Lewis College in Colorado in 1988.  From there he traveled to Australia for 2 years to help a couple friends develop some business ideas.  His return to America landed him in Boston Massachusetts installing equipment in a manufacturing facility for a season.  He then joined forces with B.F. Goodrich traveling the country from Florida, Wisconsin, to the Baja California for the Baja 1000.
-                                    </p>
-
-                                    <p>
-                                        At the end of that contract he rested at his fathers’ home in Hadley Pennsylvania for the holidays and then set sail in the spring for Pat Wolfe Log Building School in Ontario Canada.  Back to Hadley to regroup and head south to Mississippi to spend the winter as a “reforestation technician”, a fancy term for a “pine setter”.  Back to Hadley for some r and r and then west to Missoula Montana where he would be employed by Custom Log Homes for a spell.
-                                    </p>
-                                    <p>
-                                        Pat Wolfe’s log school carried some weight and Kirk soon found himself in Maupin Oregon working for Oregon Log Homes.  Oregon Log Homes landed a big contract with Disneyland in Florida to do the log work for “Fort Wilderness Lodge”.  Once that contract was complete, he returned to Pennsylvania to re-tool and head to Alaska where he was petitioned to build a cabin north of the Arctic Circle in the wilderness on the edge of Lake Chandlar.  Working on the Kenai Peninsula and Juneau, he would return to Hadley to catch his breath before heading to Utah where his chainsaw was requested once again.
-                                    </p>
-
-                                </div>
-                                <div className="article-flex-item-right">
-                                    <p>
-                                        In 1996 he married a kindergarten teacher while simultaneously buying a home and property and then heading to Delaware to build another log home.  One more log home in Illinois was enough experience to settle him down in Hadley.
-                                        From there he would start “Jordan Log Homes” and build log homes and cabins until God would assign him to be fishers of men.   As a good gesture, not recognizing his need for a Savior, Kirk would attend the church he was raised in as a youngster, First Presbyterian Church Greenville Pa.
-                                    </p>
-                                    <p>
-                                        After 4 Sundays there the pastor was called to Michigan and Kirk was invited to Hillside Presbyterian Church by friends.  There he would become a member and elder until his call to Hadley Presbyterian Church where he would be
-                                        mentored by the Rev. Dr. VanDyne.  “Chuck” recognizing the divinity in the appointment would put Kirk in the game, asking him to preach on occasion and then regularly during the Sunrise Service for Easter.  Compelled by Chucks
-                                        passing on December 25, 2009 Kirk would enroll in classes at the Dubuque Theological Seminary.  Also attending classes at Thiel College and Pittsburgh Theological Seminary Kirk would continue to build while simultaneously “fill
-                                        in” in pulpits around the area.
-                                    </p>
-                                    <p>
-                                        On such an occasion he would find himself at North Sandy Presbyterian Church as a “guest” speaker.  Therein would the next invitation come to fill their pulpit and by God’s grace he would remain there
-                                        until 2020.  Of that year, on “Good Friday” God’s spirit would compel Kirk too fast for the first time in his life and on his birthday would begin writing his first book. In August of 2019 Kirk would travel to Alaska’s Chichagof Island
-                                        to preach the gospel in the little village of Hoonah. Transformed by the Alaska trip and upon his return to North Sandy at the church’s monthly meeting in October providence would bid Kirk to ask the elders to begin the search for his replacement.
-                                        Today, from his country home in northwestern Pennsylvania Kirk continues to prepare weekly sermons, all the while working on his next book.  Rejoice always, pray without ceasing, and in everything, give thanks.
-                                    </p>
-                                </div>
-                            </div>
-                            {/* </Slider> */}
-                            <p>
-                                <span className="author-name">
-                                    <span className="author-span-ft">Author |  Writer </span>
-                                    Thomas Terraforte
-                                </span>
-                            </p>
-                        </article>
-
                         <article  className="article-section-android">
                             <p>
-                                Kirk Frank Jordan was born in Greenville Pennsylvania April 11, 1965.  He graduated from Greenville High School in 1983, Fort Lewis College in Colorado in 1988.  From there he traveled to Australia for 2 years to help a couple friends develop some business ideas.  His return to America landed him in Boston Massachusetts installing equipment in a manufacturing facility for a season.  He then joined forces with B.F. Goodrich traveling the country from Florida, Wisconsin, to the Baja California for the Baja 1000.
+                            My earliest academic memories were ones of awe and overwhelm. The first subject I gained proficiency at was Math. Growing up in Yonkers, NY, math was a practical skill which differentiated my money from their money. I was a latch key kid and when I would come home from school; 
                             </p>
 
                             <p>
-                                At the end of that contract he rested at his fathers’ home in Hadley Pennsylvania for the holidays and then set sail in the spring for Pat Wolfe Log Building School in Ontario Canada.  Back to Hadley to regroup and head south to Mississippi to spend the winter as a “reforestation technician”, a fancy term for a “pine setter”.  Back to Hadley for some r and r and then west to Missoula Montana where he would be employed by Custom Log Homes for a spell.
+                            I did my chores and searched for free time distraction. My parents bought a computer, so, I found fun and imagination in 1980 programming. When I tired of the computer, I searched the house library. My parents had bought an entire series of mini classics. I read them all. Some like Dickens, and Robert Louis Stevenson several times. My favorite was Treasure Island.
                             </p>
+
                             <p>
-                                Pat Wolfe’s log school carried some weight and Kirk soon found himself in Maupin Oregon working for Oregon Log Homes.  Oregon Log Homes landed a big contract with Disneyland in Florida to do the log work for “Fort Wilderness Lodge”.  Once that contract was complete, he returned to Pennsylvania to re-tool and head to Alaska where he was petitioned to build a cabin north of the Arctic Circle in the wilderness on the edge of Lake Chandlar.  Working on the Kenai Peninsula and Juneau, he would return to Hadley to catch his breath before heading to Utah where his chainsaw was requested once again.
+                            I attended Catholic Elementary and High School. My freshman English Teacher worked on my vocabulary. My Junior Year English Teacher (Ms. Chesser) noticed my penchant for imaginative storytelling in her assignments. She invited me to be co-editor and chief of the school’s literary magazine where I fought for explicit love poetry. A notion far too easily dismissed by priests.
                             </p>
+
                             <p>
-                                In 1996 he married a kindergarten teacher while simultaneously buying a home and property and then heading to Delaware to build another log home.  One more log home in Illinois was enough experience to settle him down in Hadley.
-                                From there he would start “Jordan Log Homes” and build log homes and cabins until God would assign him to be fishers of men.   As a good gesture, not recognizing his need for a Savior, Kirk would attend the church he was raised in as a youngster, First Presbyterian Church Greenville Pa.
+                            My SAT scores split down the middle Math/Comprehension. I made the decision to attend college at Georgia Tech and pursue Electrical Engineering. I struggled but never waivered from my scholastic goals. Still, in my free time, I would participate in Shakespeare Readings and Role Playing Games. When I graduated, I had a hard time finding a job. 
                             </p>
+                            
                             <p>
-                                After 4 Sundays there the pastor was called to Michigan and Kirk was invited to Hillside Presbyterian Church by friends.  There he would become a member and elder until his call to Hadley Presbyterian Church where he would be
-                                mentored by the Rev. Dr. VanDyne.  “Chuck” recognizing the divinity in the appointment would put Kirk in the game, asking him to preach on occasion and then regularly during the Sunrise Service for Easter.  Compelled by Chucks
-                                passing on December 25, 2009 Kirk would enroll in classes at the Dubuque Theological Seminary.  Also attending classes at Thiel College and Pittsburgh Theological Seminary Kirk would continue to build while simultaneously “fill
-                                in” in pulpits around the area.
-                            </p>
-                            <p>
-                                On such an occasion he would find himself at North Sandy Presbyterian Church as a “guest” speaker.  Therein would the next invitation come to fill their pulpit and by God’s grace he would remain there
-                                until 2020.  Of that year, on “Good Friday” God’s spirit would compel Kirk too fast for the first time in his life and on his birthday would begin writing his first book. In August of 2019 Kirk would travel to Alaska’s Chichagof Island
-                                to preach the gospel in the little village of Hoonah. Transformed by the Alaska trip and upon his return to North Sandy at the church’s monthly meeting in October providence would bid Kirk to ask the elders to begin the search for his replacement.
-                                Today, from his country home in northwestern Pennsylvania Kirk continues to prepare weekly sermons, all the while working on his next book.  Rejoice always, pray without ceasing, and in everything, give thanks.
+                            My early jobs were a Hodge podge of technical and menial tasks. What made me want to write? My social life seemed to be a constant prodding toward the literary. Several women (who I will not mention) saw the writer in me before I did. After writing my first two novels, I reflected on the beautiful guiding hands who realized authorship would fill me with pride. It does.
                             </p>
 
                             <p>

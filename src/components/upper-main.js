@@ -35,7 +35,7 @@ const UpperMain =()=>{
                                 <span>Author & Writer</span>
 
                                 <p>
-                                        Kirk Frank Jordan was born in Greenville Pennsylvania April 11, 1965.  He graduated from Greenville High School in 1983, Fort Lewis College in Colorado in 1988.  From there he traveled to Australia for 2 years to help a couple friends develop some business ideas.  His return to America landed him in Boston Massachusetts installing equipment in a manufacturing facility for a season.  
+                                . I was a latch key kid and when I would come home from school; I did my chores and searched for free time distraction. My parents bought a computer, so, I found fun and imagination in 1980 programming. When I tired of the computer, I searched the house library. My parents had bought an entire series of mini classics. 
                                 </p>
 
                                 <button>

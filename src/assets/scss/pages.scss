@@ -9,6 +9,10 @@ $prm-font-size : 12px;
 
 @import "~bulma/bulma.sass";
 
+#___gatsby {
+    background: white;
+    // background: #1F1F21;
+}
 
 .web-banner {
     height: 400px;
@@ -134,7 +138,7 @@ $prm-font-size : 12px;
 }
 
 .article-section-android{
-    display:none;
+    // display:none;
 }
 
 .author-name {
@@ -172,7 +176,7 @@ $prm-font-size : 12px;
         max-width: 100%;
         width: 100%;
         padding: 0px;
-        border: 29px solid #fff;
+        // border: 29px solid #fff;
         margin: 0;
     }
 }

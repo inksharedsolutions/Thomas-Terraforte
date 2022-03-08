@@ -9,9 +9,9 @@ const Footer = ()=>{
         <>  
             <footer className="footer-section">
                 <div className="container-gt" id="footer-info">
-                    <h1>Kirk Jordan</h1>
+                    <h1>Thomas Terraforte</h1>
                     <p className="param-footer">
-                        Kirk Jordan loves to hear from readers. You can reach him via email. 
+                        Thomas Terraforte loves to hear from readers. You can reach him via email. 
                         Feel free to send questions about writing, his works, interviews 
                         and other publicity matters.
                     </p> 

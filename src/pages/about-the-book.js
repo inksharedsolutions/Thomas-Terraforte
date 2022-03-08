@@ -5,6 +5,7 @@ import Banner from '../components/non-front-banner'
 import BookInfo from '../components/book-info/book-info'
 import { DiscussionEmbed } from "disqus-react"
 import Book1 from '../../static/book/book.png'
+import Book2 from '../../static/book/book1.png'
 import { Helmet } from "react-helmet"
 
 const ATB = (props) => {
@@ -21,7 +22,7 @@ const ATB = (props) => {
     return (
         <>
             <Layout>
-                <Helmet title="About the Book | Kirk Jordan" />
+                <Helmet title="About the Book | Thomas Terraforte" />
                 <Nav pathExt={props.path} />
 
                 <Banner
@@ -36,22 +37,47 @@ const ATB = (props) => {
 
                         <BookInfo
                             data={{
-                                title: `The Best Thing`,
-                                spanTitle: 'My Personal Journey to Know God',
+                                title: `Seven Islands of the Fog`,
+                                spanTitle: '',
                                 imgSrc: Book1,
                                 id: 'the_gifted_one',
                                 content:
                                     `
-                                    The Best Thing is partly my story but mostly about God's amazing grace. I've been reading and writing my whole life, and providence has compelled me far too long to write a book, so here we are. The book may be crude and raw, but outside Calvary's forgiveness, it's neither worth writing or reading. I honestly feel like the "least of all of these," not really gifted in any particular way, willing, though not particularly gifted. If I have a gift, it is in believing in the One that saved me, obedience to the One that called me. The Best Thing is meant to be driven, to stir you that you might exit the book transformed from your entrance. Don't leave the way you came. The book is designed to make you mad or get you excited, move you to sing your song, understand you are gifted, and share those gifts in a way that will make the world a better place. When I started the book, friends and family asked, "What is the book about?" God's amazing grace. It had to be His idea. Otherwise, it's just another book sitting on the shelf. It's in His hands. It is for His purpose and His glory. At the end of the day, when we do the math, consider the earth's spinning, rotating 23.5-degree axis, there is no other reasonable explanation for my testimony, my story, or yours save God's amazing grace. This book is for all people everywhere. It covers the globe, all races, religions, colors, and geographical locations. There are people everywhere living in the bondage of thousands of years of unforgiveness. God nailed His Son to a cross that we might be forgiven and forgive one another. This book is a call to put down our arms, receive God's payment on Calvary's shore, take up our crosses, and love one another. Jesus is not a thing. In fact, He is many things, so we'll just leave you with The Best Thing and pray that you drive it and hear the call within its pages to sing your song.
+                                    A war may be coming. Six islands search for the famed seventh island for advantage, for the future, for control. Winged people, on a giant bird, are out for peace. A submarine captain explores the depths for treasure. Magic, faith, and love drive the many colorful characters of the seven islands. Humanoid cats and dragon men accompany a host of fantastic creatures.
+                                    Is war inevitable? Only time will tell what the seventh island holds and what the price of war is for the many people of this fantastic land.
+                                    Come join the fun and mystery when the fight for the future breaks out in the seven islands of the fog.
                                     `,
                                 ebooks: {
                                     stratton: '',
                                     barnes: 'https://www.barnesandnoble.com/w/the-best-thing-kirk-jordan/1139976648?ean=9781648954870',
-                                    amazon: 'https://www.amazon.ca/Best-Thing-Kirk-Jordan-ebook/dp/B09C22HG3D/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1628695054&sr=1-1',
+                                    amazon: 'https://www.amazon.com/Seven-Islands-Fog-Thomas-Terraforte-ebook/dp/B08Q6QJWTF/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1608675204&sr=8-1',
                                 },
                                 paperback: {
                                     amazon: 'https://www.amazon.ca/Best-Thing-Kirk-Jordan/dp/1648954863/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1628695054&sr=1-1',
                                     barnes: 'https://www.barnesandnoble.com/w/the-best-thing-kirk-jordan/1139976648?ean=9781648954863',
+                                    booksamillion: 'https://www.booksamillion.com/p/Best-Thing/Kirk-Jordan/9781648954863?id=8158356429268',
+                                },
+                            }}
+                        />
+
+                            <BookInfo
+                            data={{
+                                title: `Human Angels`,
+                                spanTitle: 'A Human Story',
+                                imgSrc: Book2,
+                                id: 'the_gifted_one',
+                                content:
+                                    `
+                                    Four high school seniors search for a project to satisfy their school service requirement. What they find are powers beyond compare. An offer by a stranger leads them to rediscover the world as Human Angels. The journey may be supernatural, but the decisions are real. If they can endure, their friendship, coupled with their new powers, will lead them to uncover what adulthood and dedication truly mean.
+                                    `,
+                                ebooks: {
+                                    stratton: '',
+                                    barnes: 'https://www.barnesandnoble.com/w/human-angels-thomas-terraforte/1140316545?ean=9781648955648',
+                                    amazon: 'https://www.amazon.com/Human-Angels-Story-Thomas-Terraforte-ebook/dp/B09HXYQ6F6/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1634323651&sr=8-1',
+                                },
+                                paperback: {
+                                    amazon: 'https://www.amazon.com/Human-Angels-Story-Thomas-Terraforte/dp/1648955649/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1634323651&sr=8-1',
+                                    barnes: 'https://www.barnesandnoble.com/w/human-angels-thomas-terraforte/1140316545?ean=9781648955655',
                                     booksamillion: 'https://www.booksamillion.com/p/Best-Thing/Kirk-Jordan/9781648954863?id=8158356429268',
                                 },
                             }}

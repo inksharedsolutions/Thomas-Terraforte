@@ -64,7 +64,7 @@ const Nav = (props) =>{
 					</Link>
 				</h1>
 
-				<h1 className="wn-author-name"><Link to="/">Kirk Jordan</Link></h1>
+				<h1 className="wn-author-name"><Link to="/">Thomas Terraforte</Link></h1>
 
 				<ul
 					className="hamburger-ul"

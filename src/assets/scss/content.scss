@@ -43,7 +43,7 @@
 .upper-style{
     &:before{
         content: '';
-        background: #ffcdcd;
+        background: #54c1d5;
         position: absolute;
         left: 0;
         width: 32%;
@@ -111,10 +111,10 @@
     &:before{
         content: '';
         background: #6e5424;
-        height: 450px;
+        height: 375px;
         width: 365px;
         position: absolute;
-        transform: translate(-25px, 69px);
+        transform: translate(-27px, 20px);
         animation-name: anim_img;
         animation-duration: 2s;
     }
@@ -202,7 +202,7 @@
         }
     }
     input[name="submit"]{
-        background: #521d18;
+        background: #29616b;
         border: none;
         color: #ffffff;
         cursor: pointer;
@@ -213,12 +213,12 @@
     button{
         margin: 0;
         font-size:17px !important;
-        background: #521d18;
+        background: #29616b;
     }
 }
 
 .footer-section{
-    background: #2a2d30;
+    background: #29616b;
     padding: 5% 0;
     #footer-info{
         text-align: center;

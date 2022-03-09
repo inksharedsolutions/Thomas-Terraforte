@@ -49,11 +49,11 @@ const ATB = (props) => {
                                     `,
                                 ebooks: {
                                     stratton: '',
-                                    barnes: 'https://www.barnesandnoble.com/w/the-best-thing-kirk-jordan/1139976648?ean=9781648954870',
+                                    // barnes: 'https://www.barnesandnoble.com/w/the-best-thing-kirk-jordan/1139976648?ean=9781648954870',
                                     amazon: 'https://www.amazon.com/Seven-Islands-Fog-Thomas-Terraforte-ebook/dp/B08Q6QJWTF/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1608675204&sr=8-1',
                                 },
                                 paperback: {
-                                    amazon: 'https://www.amazon.ca/Best-Thing-Kirk-Jordan/dp/1648954863/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1628695054&sr=1-1',
+                                    // amazon: 'https://www.amazon.ca/Best-Thing-Kirk-Jordan/dp/1648954863/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1628695054&sr=1-1',
                                     barnes: 'https://www.barnesandnoble.com/w/the-best-thing-kirk-jordan/1139976648?ean=9781648954863',
                                     booksamillion: 'https://www.booksamillion.com/p/Best-Thing/Kirk-Jordan/9781648954863?id=8158356429268',
                                 },
@@ -72,13 +72,13 @@ const ATB = (props) => {
                                     `,
                                 ebooks: {
                                     stratton: '',
-                                    barnes: 'https://www.barnesandnoble.com/w/human-angels-thomas-terraforte/1140316545?ean=9781648955648',
+                                    barnes: 'https://www.barnesandnoble.com/w/human-angels-thomas-terraforte/1140316545?ean=9781648955655',
                                     amazon: 'https://www.amazon.com/Human-Angels-Story-Thomas-Terraforte-ebook/dp/B09HXYQ6F6/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1634323651&sr=8-1',
                                 },
                                 paperback: {
                                     amazon: 'https://www.amazon.com/Human-Angels-Story-Thomas-Terraforte/dp/1648955649/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1634323651&sr=8-1',
-                                    barnes: 'https://www.barnesandnoble.com/w/human-angels-thomas-terraforte/1140316545?ean=9781648955655',
-                                    booksamillion: 'https://www.booksamillion.com/p/Best-Thing/Kirk-Jordan/9781648954863?id=8158356429268',
+                                    barnes: 'https://www.barnesandnoble.com/w/human-angels-thomas-terraforte/1140316545?ean=9781648955648',
+                                    booksamillion: 'https://www.booksamillion.com/p/Human-Angels/Thomas-Terraforte/9781648955648?id=8158356429268',
                                 },
                             }}
                         />

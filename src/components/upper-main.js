@@ -35,7 +35,7 @@ const UpperMain =()=>{
                                 <span>Author & Writer</span>
 
                                 <p>
-                                . I was a latch key kid and when I would come home from school; I did my chores and searched for free time distraction. My parents bought a computer, so, I found fun and imagination in 1980 programming. When I tired of the computer, I searched the house library. My parents had bought an entire series of mini classics. 
+                                    I was a latch key kid and when I would come home from school; I did my chores and searched for free time distraction. My parents bought a computer, so, I found fun and imagination in 1980 programming. When I tired of the computer, I searched the house library. My parents had bought an entire series of mini classics. 
                                 </p>
 
                                 <button>

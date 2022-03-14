@@ -49,13 +49,13 @@ const ATB = (props) => {
                                     `,
                                 ebooks: {
                                     stratton: '',
-                                    // barnes: 'https://www.barnesandnoble.com/w/the-best-thing-kirk-jordan/1139976648?ean=9781648954870',
+                                    barnes: '',
                                     amazon: 'https://www.amazon.com/Seven-Islands-Fog-Thomas-Terraforte-ebook/dp/B08Q6QJWTF/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1608675204&sr=8-1',
                                 },
                                 paperback: {
-                                    // amazon: 'https://www.amazon.ca/Best-Thing-Kirk-Jordan/dp/1648954863/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1628695054&sr=1-1',
-                                    barnes: 'https://www.barnesandnoble.com/w/the-best-thing-kirk-jordan/1139976648?ean=9781648954863',
-                                    booksamillion: 'https://www.booksamillion.com/p/Best-Thing/Kirk-Jordan/9781648954863?id=8158356429268',
+                                    amazon: '',
+                                    barnes: 'https://www.barnesandnoble.com/w/seven-islands-of-the-fog-thomas-terraforte/1121892486?ean=9781648952920',
+                                    booksamillion: 'https://www.booksamillion.com/p/Seven-Islands-Fog/Thomas-Terraforte/9781648952920?id=8158356429268',
                                 },
                             }}
                         />

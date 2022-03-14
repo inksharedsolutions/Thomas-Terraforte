@@ -33,41 +33,41 @@ const ATB = (props) => {
                             </div>
 
                             <div className="heading-quote">
-                                <h4>
+                                {/* <h4>
                                     “Sounds a lot like God to me”.
                                 </h4>
 
                                 <span className="ata-span-fx">
                                     The God Particle, Chapter 11, Going Within.
-                                </span>
+                                </span> */}
                             </div>
                         </div>
 
                         <article  className="article-section-android">
                             <p>
-                            My earliest academic memories were ones of awe and overwhelm. The first subject I gained proficiency at was Math. Growing up in Yonkers, NY, math was a practical skill which differentiated my money from their money. I was a latch key kid and when I would come home from school; 
+                                Thomas Terraforte academic memories were ones of awe and overwhelm. The first subject he gained was proficiency at was Math. Growing up in Yonkers, NY, math was a practical skill which differentiated his money from their money. He was a latch key kid and when I would come home from school; 
                             </p>
 
                             <p>
-                            I did my chores and searched for free time distraction. My parents bought a computer, so, I found fun and imagination in 1980 programming. When I tired of the computer, I searched the house library. My parents had bought an entire series of mini classics. I read them all. Some like Dickens, and Robert Louis Stevenson several times. My favorite was Treasure Island.
+                                He did chores and searched for free time distraction. His parents bought a computer, so, He found fun and imagination in 1980 programming. When he tried of the computer, he searched the house library. His parents had bought an entire series of mini classics and he read them all. Some like Dickens, and Robert Louis Stevenson several times. His favorite was Treasure Island.
                             </p>
 
                             <p>
-                            I attended Catholic Elementary and High School. My freshman English Teacher worked on my vocabulary. My Junior Year English Teacher (Ms. Chesser) noticed my penchant for imaginative storytelling in her assignments. She invited me to be co-editor and chief of the school’s literary magazine where I fought for explicit love poetry. A notion far too easily dismissed by priests.
+                                He attended Catholic Elementary and High School. His freshman English Teacher worked on my vocabulary. His Junior Year English Teacher (Ms. Chesser) noticed his penchant for imaginative storytelling in her assignments. She invited him to be co-editor and chief of the school’s literary magazine where he fought for explicit love poetry. A notion far too easily dismissed by priests.
                             </p>
 
                             <p>
-                            My SAT scores split down the middle Math/Comprehension. I made the decision to attend college at Georgia Tech and pursue Electrical Engineering. I struggled but never waivered from my scholastic goals. Still, in my free time, I would participate in Shakespeare Readings and Role Playing Games. When I graduated, I had a hard time finding a job. 
+                                His SAT scores split down the middle Math/Comprehension. He made the decision to attend college at Georgia Tech and pursue Electrical Engineering. He struggled but never waivered from his scholastic goals. Still, in his free time, he would participate in Shakespeare Readings and Role Playing Games. When he graduated, he had a hard time finding a job. 
                             </p>
                             
                             <p>
-                            My early jobs were a Hodge podge of technical and menial tasks. What made me want to write? My social life seemed to be a constant prodding toward the literary. Several women (who I will not mention) saw the writer in me before I did. After writing my first two novels, I reflected on the beautiful guiding hands who realized authorship would fill me with pride. It does.
+                                His early jobs were a Hodge podge of technical and menial tasks. What made him want to write? His social life seemed to be a constant prodding toward the literary. Several women (who he will not mention) saw the writer in him before he did. After writing my first two novels, I reflected on the beautiful guiding hands who realized authorship would fill me with pride. It does.
                             </p>
 
                             <p>
                                 <span className="author-name">
                                     <span className="author-span-ft">Author |  Writer </span>
-                                    Thomas Terraforte
+                                        Thomas Terraforte
                                 </span>
                             </p>
                         </article>

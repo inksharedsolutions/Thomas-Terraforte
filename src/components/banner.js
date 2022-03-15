@@ -43,7 +43,7 @@ const Banner = () => {
                                         </span>
                                     </span>
                                 </h1>
-                                <p>
+                                <p className="p-banner">
                                 The fog rolls in and whisks you away into a world of fantastic creatures in an amazing journey. Join a group of winged emissaries as they head off to stop a war and join an underwater submariner in search of magical artifacts. Along the way, you will meet dragon men, cat people, wizards, and sea creatures, as well as travel though the six islands of the fog. 
                                 </p>
 

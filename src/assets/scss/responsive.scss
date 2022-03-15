@@ -58,12 +58,16 @@
         height: 100vh;
     }
 
+    .banner-content-wrapper{
+        margin-top: 55px;
+    }
+
     // .banner-content-wrapper {
     //     height: 120vh;
     // }
 
     .image-author:before {
-        height: 325px;
+        height: 250px;
         width: 290px;
     }
 }

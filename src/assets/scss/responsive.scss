@@ -37,6 +37,12 @@
 }
 
 @media screen and (max-width : 1366px) {
+
+    .parallax-bottom .parallax-item h1 {
+        padding-top: 6%;
+        font-size: 25px;
+    }
+
     .btn-container {
         margin: 0 auto;
     }
@@ -237,6 +243,18 @@
 // }
 
 @media screen and (max-width : 769px) {
+    
+    .parallax-bottom .parallax-item {
+        h1{
+        padding-top: 9%;
+        font-size: 21px;
+        }
+        span{
+            font-size: 20px;  
+        }
+    }
+    
+    
     .contentBook {
         
         p {
@@ -247,6 +265,21 @@
 }
 
 @media screen and (max-width: 650px) {
+
+    .parallax-bottom .parallax-item {
+        h1{
+        padding-top: 9%;
+        font-size: 20px;
+        }
+        span{
+            font-size: 15px;  
+        }
+    }
+
+    .parallax-bottom .parallax-item .a-button{
+        font-size: 8px;
+        letter-spacing: 0.1em;
+    }
 
     .grid-template-four-col {
         grid-template-columns: 1fr 1fr;
@@ -432,15 +465,10 @@
 
 @media screen and (max-width: 450px) {
 
-    // .grid-template-four-col{
-    //     display: flex;
-    //     flex-direction:column;
-    //     line-height: 90px;
-    //     .logo-row{
-    //         display: flex;
-    //         flex-direction:row;
-    //     }
-    // }
+    .parallax-bottom .parallax-item .a-button {
+        font-size: 6px;
+        letter-spacing: 0.1em;
+    }
 
     .article-section {
         display: none;
@@ -509,6 +537,19 @@
         }
     }
 
+}
+
+@media screen and (max-width: 375px) {
+    .parallax-bottom .parallax-item h1 {
+        /* padding-top: 9%; */
+        font-size: 16px;
+    }
+}
+@media screen and (max-width: 280px) {
+.parallax-bottom .parallax-item h1 {
+    padding-top: 9%;
+    font-size: 13px;
+}
 }
 
 @media screen and (max-width: 350px) {

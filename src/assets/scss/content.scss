@@ -471,6 +471,107 @@
     }
 }
 
+.parallax-bottom {
+    background-image: url("../../../static/banner/parallax.jpeg");
+    box-shadow: inset 0 0 0 2000px rgb(255 255 255 / 54%);      
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    // background: #e6e6e6;
+    height: 50vh;
+
+    h2{
+        padding: 2% 4%;
+        font-size: 20px;
+        font-weight: 700;
+        font-family: ui-monospace;
+    }
+
+    .parallax-item{
+        h1{
+            position: relative;
+            font-size: 40px;
+            font-weight: 800;
+            color: #214799!important;
+            font-family: Copperplate,Copperplate Gothic,fantasy;
+            padding-top: 0;
+            text-align: center;
+        }
+        span{
+            display: block;
+            font-size: 25px;
+            margin-top: 8px;
+            color: #242c00!important;
+            padding-bottom: 20px;
+            text-align: right;
+            font-family: Averia Libre,cursive;
+            font-style: italic;
+        }
+        .a-button{
+            background-color: #ffe5b5;
+            border-radius: 10px;
+            width: 30%; 
+            margin:0 auto;
+            padding-top: 5px;
+            padding-bottom: 5px;
+            border: 10%;
+            font-size: 11px;
+            letter-spacing: 0.2em;
+            text-transform: uppercase;
+        }
+    }
+
+}
+
+.flex-container {
+    display: grid;
+    height: 50vh;
+    grid-template-columns: 50%;
+    justify-content: center;
+    align-items: center;
+
+    h1 {
+
+    position: relative;
+
+        &:before {
+            content: '';
+            width: 13%;
+            background: #da3107;
+            position: relative;
+            display: block;
+            height: 4px;
+            margin: 7px 0px;
+
+        }
+
+        position: relative;
+        font-size:40px;
+        font-weight: 800;
+        color: #27396b !important;
+        // text-shadow: 1px 1px black;
+        padding-top: 0;
+        text-align: center;
+    }
+
+    &:before {
+        // content: "";
+        position: absolute;
+        font-size: 11em;
+        font-weight: 900;
+        text-transform: capitalize;
+        color: #d65c5c57;
+        text-transform: uppercase;
+        transform: translate(80%, 0%);
+    }
+
+    span {
+        color: white;
+    }
+}
+
 .param-footer{
     max-width: 500px;
     margin: 4% auto !important;

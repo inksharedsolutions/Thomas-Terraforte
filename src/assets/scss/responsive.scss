@@ -39,7 +39,7 @@
 @media screen and (max-width : 1366px) {
 
     .parallax-bottom .parallax-item h1 {
-        padding-top: 6%;
+        padding-top: 0%;
         font-size: 25px;
     }
 
@@ -246,7 +246,7 @@
     
     .parallax-bottom .parallax-item {
         h1{
-        padding-top: 9%;
+        padding-top: 0%;
         font-size: 21px;
         }
         span{
@@ -268,7 +268,7 @@
 
     .parallax-bottom .parallax-item {
         h1{
-        padding-top: 9%;
+        padding-top: 0%;
         font-size: 20px;
         }
         span{
@@ -554,6 +554,13 @@
 
 @media screen and (max-width: 350px) {
 
+    .parallax-bottom h3 {
+        padding: 0% 4%;
+        font-size: 16px;
+        font-weight: 700;
+        font-family: ui-monospace;
+    }
+    
     .logo-img {
         width: 80px;
     }

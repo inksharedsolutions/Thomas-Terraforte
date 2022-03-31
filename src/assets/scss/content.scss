@@ -479,11 +479,17 @@
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    // background: #e6e6e6;
     height: 50vh;
+    margin-bottom: 40px;
 
     h2{
         padding: 2% 4%;
+        font-size: 30px;
+        font-weight: 700;
+        font-family: ui-monospace;
+    }
+    h3{
+        padding: 0% 4%;
         font-size: 20px;
         font-weight: 700;
         font-family: ui-monospace;
@@ -508,6 +514,7 @@
             text-align: right;
             font-family: Averia Libre,cursive;
             font-style: italic;
+            padding-right: 3%;
         }
         .a-button{
             background-color: #ffe5b5;
@@ -526,7 +533,7 @@
 }
 
 .flex-container {
-    display: grid;
+    // display: grid;
     height: 50vh;
     grid-template-columns: 50%;
     justify-content: center;

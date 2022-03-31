@@ -7,6 +7,7 @@ import { DiscussionEmbed } from "disqus-react"
 import Book1 from '../../static/book/book.png'
 import Book2 from '../../static/book/book1.png'
 import { Helmet } from "react-helmet"
+import ParallaxBottom from "../components/parallax-bottom"
 
 const ATB = (props) => {
 
@@ -59,6 +60,7 @@ const ATB = (props) => {
                                 },
                             }}
                         />
+                        <ParallaxBottom/>
 
                             <BookInfo
                             data={{
@@ -82,11 +84,13 @@ const ATB = (props) => {
                                 },
                             }}
                         />
+                        
                         <div className="commentSection" >
                             <DiscussionEmbed {...disqusConfig} />
                         </div>
                     </div>
                 </main>
+                
             </Layout>
         </>
     )

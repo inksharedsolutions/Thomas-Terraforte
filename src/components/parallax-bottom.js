@@ -25,8 +25,9 @@ const ParallaxBottom = () => {
                 
                     <div className="flex-container">
                     <div className="parallax-testimonial">
-                        <h2>Testimonials</h2> <h3>"True knowledge comes from observing life in a way nobody ever has."</h3>
-                                <div className="parallax-item">
+                        {/* <h2>Testimonials</h2>
+                        <h3>"True knowledge comes from observing life in a way nobody ever has."</h3> */}
+                                {/* <div className="parallax-item">
                                     <h1>
                                     "This stream-of-consciousness fantasy calls upon the reader to pay careful attention to the ultimate goals of each of the numerous characters."
                                     <div className="a-button"><a href="https://www.theusreview.com/reviews-1/Seven-Islands-of-the-Fog-by-Thomas-Terraforte.html#.YkNvtudByUk" target="_blank">Read more</a></div> 
@@ -34,7 +35,8 @@ const ParallaxBottom = () => {
                                         Heather Brooks
                                         </span>
                                     </h1>
-                                </div>
+                                </div> */}
+                                
                                 {/* <div className="parallax-item">
                                     <h1>
                                     "This stream-of-consciousness fantasy calls upon the reader to pay careful attention to the ultimate goals of each of the numerous characters."

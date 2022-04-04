@@ -7,7 +7,7 @@ import { DiscussionEmbed } from "disqus-react"
 import Book1 from '../../static/book/book.png'
 import Book2 from '../../static/book/book1.png'
 import { Helmet } from "react-helmet"
-import ParallaxBottom from "../components/parallax-bottom"
+// import ParallaxBottom from "../components/parallax-bottom"
 
 const ATB = (props) => {
 
@@ -60,7 +60,16 @@ const ATB = (props) => {
                                 },
                             }}
                         />
-                        <ParallaxBottom/>
+                        {/* <ParallaxBottom/> */}
+                        <div class="external-reviews-cont">
+                            <h3>The US Review of Books</h3>
+                            <ul class="reviews-list">
+                                <li>
+                                "True knowledge comes from observing life in a way nobody ever has."&nbsp;
+                                <a target="_blank" rel="noreferrer" href="https://www.theusreview.com/reviews-1/Seven-Islands-of-the-Fog-by-Thomas-Terraforte.html#.YkpcPehByUl">Read more</a>
+                                </li>
+                            </ul>
+                        </div>
 
                             <BookInfo
                             data={{
@@ -84,7 +93,7 @@ const ATB = (props) => {
                                 },
                             }}
                         />
-                        
+
                         <div className="commentSection" >
                             <DiscussionEmbed {...disqusConfig} />
                         </div>
